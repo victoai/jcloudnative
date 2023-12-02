@@ -12,7 +12,7 @@ public class CloudnativeApplication {
 
 	@RequestMapping("/")
 	String home(){
-		return  "hello world";
+		return  "hello world  okd";
 	}
 
 	public static void main(String[] args) {
